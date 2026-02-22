@@ -1,1 +1,2 @@
-Just a Coder Practicing React
+Just a Developer Practicing React
+Nothing Much to see here :>
